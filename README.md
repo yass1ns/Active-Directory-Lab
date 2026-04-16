@@ -3,8 +3,8 @@
 
 ## Overview
 
-This lab demonstrates hands-on experience with Windows Server administration, network configuration, Group Policy management, and PowerShell scripting.
-Designed and deployed a fully functional Active Directory environment using VirtualBox to simulate a real enterprise network.
+- This lab demonstrates hands-on experience with Windows Server administration, network configuration, Group Policy management, and PowerShell scripting.
+- Designed and deployed a fully functional Active Directory environment using VirtualBox to simulate a real enterprise network.
 
 
 
