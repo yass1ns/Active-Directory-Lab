@@ -43,7 +43,7 @@
 
 ## Screenshots
 
-# (See the /screenshots folder for documentation)
+# (See the screenshots for documentation)
 - Organizational Unit structure with users and security groups
 - Group Policy Object configuration and settings
 - PowerShell bulk user creation output
